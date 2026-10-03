@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://railblocks.co">
-    <img src="https://github.com/user-attachments/assets/cb997f4c-d736-421d-971e-7233fc3a4cc8" alt="Railblocks Logo"/>
+  <a href="https://railblocks.com">
+    <img src="https://raw.githubusercontent.com/railblockscom/.github/main/profile/assets/railblocks-lockup-2026.png" alt="Railblocks — current logo and wordmark" width="500"/>
   </a>
 </p>
 
